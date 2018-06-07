@@ -11,4 +11,4 @@ Unoriented_Var_de_Bruijn_Seq.pdf is the pdf from the arXiv copy of a peer-review
 
 Final_Fram.pdf is a presentation on the work that appears in the paper above give at the Front Rance Applied Mathematics conference.
 
-de Bruijn poster.pdf is a poster of the same work presented at the Joint Mathematics Meeting. 
+de_Bruijn_poster.pdf is a poster of the same work presented at the Joint Mathematics Meeting. 
